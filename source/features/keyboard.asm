@@ -1,5 +1,5 @@
 ; ==================================================================
-; Mini_OS -- The HERA_OS Operating System kernel
+; Mini_OS -- The Mini_OS Operating System kernel
 ;
 ; KEYBOARD HANDLING ROUTINES
 ; ==================================================================
