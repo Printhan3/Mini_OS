@@ -1,9 +1,9 @@
-;HERA--- The HERA Operating System Kernel
+;MINI--- The Mini Operating System Kernel
 ;===================================================================
 
 	BITS 16
-	%DEFINE HERA_OS_VER '1.0.0'	 ;OS version number
-	%DEFINE HERA_OS_API_VER 1	; API version for programs to check
+	%DEFINE Mini_OS_VER '1.0.0'	 ;OS version number
+	%DEFINE Mini_OS_API_VER 1	; API version for programs to check
 	%DEFINE KEY_ESC		27
 
 	disk_buffer equ 24576 
